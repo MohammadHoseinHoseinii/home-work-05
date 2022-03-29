@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cTiyKHinXxygilWYcMTow6W1lywMBdatiOB/U/ZGIlzcPfsD86WxWsMoPAgX+8KlV2Pd+7+P1muokUoYakTsXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammad\\Desktop\\ex5\\ex5-3\\ex5-3\\ex5-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\Mohammad\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
